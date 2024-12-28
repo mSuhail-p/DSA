@@ -101,4 +101,8 @@
 // let str = 'hello guys'
 
 // console.log(str.replace(/[aeiou]/g,0));
-
+jfsdklfsaldflksdjflskdfjlsda
+sfsdlfsdlfjsdflsdkjflksdjf
+sdfjsldfjlsdjflksdjflsdk
+slfjsldkfjlsdjflsdfjlsdk
+skldfjlsdfjlsdjflsdjflsakdjf
